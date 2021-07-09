@@ -1,1 +1,1 @@
-# nvim
+Configuración personalizada de Neovim
